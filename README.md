@@ -8,6 +8,7 @@ L'obiettivo del progetto è la gestione di una classifica tra grafi diretti pesa
 
 ## Tool usati
 * Linguaggio: C
+* Compiler: GCC
 * Analisi di tempo e memoria: Valgrind
 * Editor: Visual Studio Code
 
@@ -15,3 +16,4 @@ L'obiettivo del progetto è la gestione di una classifica tra grafi diretti pesa
 * Nessuna libreria esterna al di là della libreria standard del C
 * Dati ricevuti in ingresso tramite stdin, risultati da fornire su stdout
 * No multithreading
+* flag di compilazione: -Wall -g3
