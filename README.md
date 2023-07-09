@@ -6,12 +6,12 @@ L'obiettivo del progetto è la gestione di una classifica tra grafi diretti pesa
 * AggiungiGrafo: richiede di aggiungere un grafo pesato a quelli considerati per la classifica, passato per matrice di adiacenza
 * TopK: stampa i valori degli indici dei top k grafi migliori
 
-##Tool usati
+## Tool usati
 * Linguaggio: C
 * Analisi di tempo e memoria: Valgrind
 * Editor: Visual Studio Code
 
-##Additional constraints:
+## Additional constraints:
 * Nessuna libreria esterna al di là della libreria standard del C
 * Dati ricevuti in ingresso tramite stdin, risultati da fornire su stdout
 * No multithreading
